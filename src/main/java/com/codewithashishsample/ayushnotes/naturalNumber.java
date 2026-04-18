@@ -1,0 +1,11 @@
+package com.codewithashishsample.ayushnotes;
+
+public class naturalNumber {
+    public static void main(String[] args) {
+        for(int i=3;i<=30;i++) {
+            if (i % 3 == 0) {
+                System.out.println(i);
+            }
+        }
+    }
+}
